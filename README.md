@@ -9,3 +9,8 @@ I have not received a traditional college/university education in computer scien
 - [] Programming in Haskell
 - [] The Object-Oriented Thought Process
 
+### Tech I'm Using
+
+- Javascript / Typescript
+- React
+- Node
